@@ -1,0 +1,11 @@
+. GROUND
+R ROAD
+W front_wall top
+w front_wall down
+B back_wall top
+b back_wall down
+T side_wall
+t side_wall
+e ennemy
+c chest
+r rock
